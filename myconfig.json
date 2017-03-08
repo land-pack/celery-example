@@ -1,0 +1,10 @@
+{
+    "redis_db":{
+        "db_foo":"redis://localhost:6379/0",
+        "db_bar":"redis://localhost:6379/0"
+    },
+    "mysql_db":{
+        "db_foo":"xxxx",
+        "db_bar":"yyyy"
+    }
+}
